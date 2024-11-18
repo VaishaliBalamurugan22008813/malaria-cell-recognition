@@ -118,15 +118,16 @@ confusion_matrix(test_image_gen.classes,predictions)
 ### Output:
 
 ##### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/d7158164-bf79-4f6b-95a2-6f59430cb7ba)
+
+![image](https://github.com/user-attachments/assets/f41e17a9-41c6-48fc-a4b9-7819a0871857)
 
 
 ##### Confusion Matrix & Classification Report
-![image](https://github.com/user-attachments/assets/1e45af0f-3432-410b-a0c3-b310186bcbbd)
+![image](https://github.com/user-attachments/assets/73bec2ef-7490-4d3d-a4e0-f435a43f3cc8)
 
 
-##### New Sample Data Prediction
-![image](https://github.com/user-attachments/assets/00ae8444-8b17-4f4e-9afa-384c1c28c73b)
+
+
 
 
 
